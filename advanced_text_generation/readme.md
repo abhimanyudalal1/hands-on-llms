@@ -1,1 +1,1 @@
-![langchain](langg.png)
+<img src="langg.png" width="400" />
